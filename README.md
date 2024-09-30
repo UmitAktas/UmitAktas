@@ -1,4 +1,8 @@
-<h2 align="center">Hi 👋! <br>I'm Ümit AKTAŞ</h2>
+<h1 align="center">Hi 👋! <br>I'm Ümit AKTAŞ</h1>
+
+###
+
+<h2 align="left">💻 I'm software developer at Hugin Retail Solutions</h2>
 
 ###
 
@@ -25,21 +29,21 @@
 ###
 
 <div align="center">
-  <a href="umitaktass@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/umitaktass/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=UmitAktas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmitAktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UmitAktas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img align="right" width="150" height="150" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" height="200" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/umitaktass/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
-  
 
 ###
 
