@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/UmitAktas/UmitAktas/output/snake.svg" alt="Snake animation" />
+<img src="Images/Dynamic/snake.svg" style="background:#161b22;">
 
 ###
